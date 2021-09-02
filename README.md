@@ -5,7 +5,7 @@
   
   ## Мой Стек технологий ✏️
   <p>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML" height="40">
 <!--
 **AlexLeibch/AlexLeibch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
