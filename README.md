@@ -8,9 +8,9 @@
   
   ## Мой Стек технологий ✏️
   <p>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" height="35">
   <img src="https://cdn.icon-icons.com/icons2/37/PNG/512/css_3721.png" alt="CSS" height="35">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" height="35">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="HTML" height="35">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/visualstudio_code_logo_icon_170247.png" alt="VSCode" height="35">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="React" height="35">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="Webpack" height="35">
