@@ -8,7 +8,7 @@
   
   ## Мой Стек технологий ✏️
   <p>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML" height="40">
+  <img src="https://cdn.icon-icons.com/icons2/37/PNG/512/html_application_3021.png" alt="HTML" height="40">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="CSS" height="40">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" height="35">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/visualstudio_code_logo_icon_170247.png" alt="VSCode" height="35">
