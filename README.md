@@ -16,7 +16,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="Webpack" height="35">
  
  ## Мои контакты
-  [<img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" height="50">](https://www.linkedin.com/in/artemii-pudovkin-6a9368205/)
+  [<img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" height="50">](https://t.me/VisVies)
 <!--
 **AlexLeibch/AlexLeibch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
