@@ -17,7 +17,7 @@
  
  ## Мои контакты
   [<img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" height="50">](https://t.me/VisVies)
-  [<img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png">](mailto:artempudovkin@gmail.com)
+  [<img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="50">](mailto:artempudovkin@gmail.com)
 <!--
 **AlexLeibch/AlexLeibch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
