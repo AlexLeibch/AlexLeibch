@@ -1,12 +1,12 @@
-<h1 align="center"> Привет 👋, меня зовут Александр, я начинающий Frontend - разработчик</h1> 
+<h1 align="center"> Hello 👋, my name is Alexander and i'm  beginner Frontend-dev</h1> 
 
-- 📚 На данный момент обучаюсь в Яндекс.Практикум на курсе "Веб - разработка"
+- 📚 I like frontend because it's interesting for me to create something, to make user interface live and friendly
 
- - 👷 Хочу научиться делать приветливые и дружелюбные интерфейсы
+ - 👷 Looking for job at this moment
 
- - 👯 Писать код, который будет без труда поддерживаться другими программистами
+ - 👯 Glad to meet interesting people and learn from them
   
-  ## Мой Стек технологий ✏️
+  ## My stack ✏️
   <p>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" height="35">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" height="35">
@@ -16,8 +16,10 @@
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="Webpack" height="35">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node" height="35">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_mongodb_icon_129879.png" alt="MongoDB" height="35">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git" height="35">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" alt="Figma" height="35">
  
  
- ## Мои контакты
+ ## My conact
   [<img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" height="50">](https://t.me/VisVies)
   [<img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="50">](mailto:artempudovkin@gmail.com)
