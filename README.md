@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋, my name is Alexander and i'm  beginner Frontend-dev</h1> 
+<h1 align="center"> Hello 👋, my name is Alexander and i'm  beginner Frontend-deveveloper</h1> 
 
 - 📚 I like frontend because it's interesting for me to create something, to make user interface live and friendly
 
