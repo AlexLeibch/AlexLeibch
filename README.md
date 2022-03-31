@@ -32,3 +32,26 @@
  ## My contact
   [<img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" height="50">](https://t.me/VisVies)
   [<img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="50">](mailto:artempudovkin@gmail.com)
+ 
+ 
+## About me :
+ ```javascript
+const Alex = {
+    city: 'Kaliningrad',
+    code: ["Javascript/Typescript"],
+    technologies: {
+        frontend: {
+            js: ["React","Redux"],
+            css: ["Styled-Components", "Scss", "Vienna", "MUI"]
+        },
+        backend: {
+            js: ["Node", "Express"],
+            API: ["RestAPI"]
+        },
+        misc: ["Git", "Figma", "Postman"],
+        DataBase: ["MongoDB"],
+        },
+        architecture: ["Progressive web applications", "Single page applications"],
+    },
+};
+```
