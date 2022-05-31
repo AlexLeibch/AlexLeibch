@@ -5,7 +5,6 @@
 
 <img align="right"  src="https://c.tenor.com/sUfX_bvEOREAAAAC/sillicon-valley-hello-there.gif"/>
 <ul>
-<li> I like frontend because it's interesting for me to create something, to make user interface live and friendly 📚</li>
 <li>  Always open to new opportunities 👷</li>
 <li>  Glad to meet interesting people and learn from them 👯</li>
 <li> Like to ride a bike 🚲 </li>
