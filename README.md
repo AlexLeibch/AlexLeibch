@@ -40,8 +40,8 @@ const Alex = {
     code: ["Javascript/Typescript"],
     technologies: {
         frontend: {
-            js: ["React","Redux"],
-            css: ["Styled-Components", "Scss", "Vienna", "MUI"]
+            js: ["React","Redux", "Vue 2, 3", "Vuex"],
+            css: ["Styled-Components", "Scss","MUI"]
         },
         backend: {
             js: ["Node", "Express"],
